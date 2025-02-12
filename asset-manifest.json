@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dsamyliak/multiplyquiz/static/css/main.7acaea2f.css",
+    "main.js": "/dsamyliak/multiplyquiz/static/js/main.07d3183d.js",
+    "index.html": "/dsamyliak/multiplyquiz/index.html",
+    "main.7acaea2f.css.map": "/dsamyliak/multiplyquiz/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/dsamyliak/multiplyquiz/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
